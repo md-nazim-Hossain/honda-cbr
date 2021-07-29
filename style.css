@@ -15,7 +15,7 @@
     margin-top: 100px;
  }
 /* Header css */
-header{
+header,footer{
     background-color: #264653;
 }
 h3{
