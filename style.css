@@ -1,0 +1,55 @@
+/* Font emport */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/* common color */
+.common-font-family{
+    font-family: 'Poppins', sans-serif;
+}
+ .common-color{
+     color:#E76F51;
+ }
+ .common-font-size{
+     font-size: 14px;
+ }
+ section{
+    margin-top: 100px;
+ }
+/* Header css */
+header{
+    background-color: #264653;
+}
+h3{
+    font-weight: 600;
+    font-size: 48px;
+}
+.text-color{
+    color: #E0E0E0;
+}
+.bg-button{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    color: white;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+/* main body css */
+.bike-luminosity{
+    mix-blend-mode: luminosity;
+}
+/* happy client says */
+.imgSize{
+    width: 149px;
+    height: 149px;
+    margin:30px 0px;
+}
+.imgSize .img-radius{
+    border-radius: 50%;
+}
+.card-body p{
+    color: #6C6C6C;
+}
